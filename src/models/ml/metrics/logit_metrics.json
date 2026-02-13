@@ -1,0 +1,7 @@
+{
+    "type": "Logit - Regressão Logística",
+    "accuracy": 0.8966061562746646,
+    "precision": 0.9127343244990304,
+    "recall": 0.8800249298846993,
+    "f1_score": 0.8960812311597652
+}

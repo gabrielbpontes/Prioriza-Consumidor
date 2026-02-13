@@ -1,0 +1,1 @@
+src/backend/database/consumidor_gov_brasil.db filter=lfs diff=lfs merge=lfs -text
