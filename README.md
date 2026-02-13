@@ -24,9 +24,12 @@ Devido ao grande volume de reclamações registradas diariamente, torna-se difí
 - Python  
 - Pandas  
 - NumPy  
-- Scikit-learn  
-- SpaCy  
-- Técnicas de Processamento de Linguagem Natural (PLN)
+- Scikit-learn
+- TensorFlow
+- BeautifulSoup
+- Word2Vec
+- NLTK
+- Regex
 
 ## Fonte de dados
 
@@ -36,7 +39,7 @@ Os dados utilizados neste projeto são provenientes da plataforma pública:
 
 Esses dados incluem textos de reclamações, respostas das empresas e informações sobre o status de resolução.
 
-## Impacto esperado
+## Contribuição do Projeto
 
 O projeto busca contribuir para:
 
@@ -50,5 +53,3 @@ O projeto busca contribuir para:
 - Gabriel Pontes  
 - Pedro Melo  
 - Pedro Vieira  
-
-## Estrutura do projeto
